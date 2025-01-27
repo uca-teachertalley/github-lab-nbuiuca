@@ -10,3 +10,4 @@ Contents:
 - **.gitignore**   - Contains list of local files to ignore when committing to GitHub.
 
 I am learning GitHub!
+I am editing README.md
